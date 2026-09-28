@@ -1,174 +1,171 @@
-```text
-                                                        
-· ······· · ·    ╔════════════════════╗       · · · · · 
-·░·░·░·░·░·· ·   ║ ● ● ●              ║      · · · ··· ·
-▒░▒░▒▒▒▒▒░▒░░·░··╠════════════════════╣ · ··░·░·░░░░▒░░·
-░▒▒▓▒▓▒▓▒▓▒▒░░░▒░║                    ║··░░░·░░▒░▒░▒░▒░▒
-▒░▓▒▓▓█▓█▓█▓▓▒▒▒▓║   < FRONTEND />    ║▓▓▒▒░▒▒▓▓▓▓▓▓▓▒▓▒
-░▒░▒▒▓▓▓▓█▓▓▓▓▒▒▒║   UI / UX          ║░░▒░▒▒▓▓▓▓█▓▓▓▓▒▒
-░░░░▒▒▓▒▓▓▓▓▓▒▓▒▒║                    ║▒▓▓▓▒▓▓█▓█▓█▓▓▒▒░
- ··░·░░▒░▒░▒░▒░░·║                    ║▒░▒▒▓▒▓▒▓▒▓▒▒░░░░
-  · ··░·░·░░░·░·░║                    ║░░░▒▒▒▒▒▒▒░▒░░·░·
-     · · · · · · ╚════════════════════╝··░·░░░·░·░····  
-        · · · · · · ·           · · · · ····░······ ·   
-```
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nusrat Ayesha</h1>
+<br>
 
-<h3 align="center">Frontend Developer &nbsp;|&nbsp; UI/UX Designer</h3>
+<h1>NUSRAT AYESHA</h1>
 
-<h3 align="center"><code>Open to Internship · Junior · Entry-Level</code></h3>
+<p>━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<p align="center">Building clean, responsive interfaces with thoughtful design and well-structured code.</p>
+<h3>Frontend Developer &nbsp;·&nbsp; UI/UX Designer</h3>
 
-```bash
-$ whoami
-nusrat_ayesha
+<p>Building clean, responsive interfaces with thoughtful design and well-structured code.</p>
 
-$ cat role.txt
-Frontend Developer | UI/UX Designer
+<p>
+<a href="#about"><b>About</b></a> &nbsp;&nbsp;│&nbsp;&nbsp;
+<a href="#tech-stack"><b>Tech Stack</b></a> &nbsp;&nbsp;│&nbsp;&nbsp;
+<a href="#skills"><b>Skills</b></a> &nbsp;&nbsp;│&nbsp;&nbsp;
+<a href="#education"><b>Education</b></a> &nbsp;&nbsp;│&nbsp;&nbsp;
+<a href="#contact"><b>Contact</b></a>
+</p>
 
-$ status --now
-● open_to_work   [ internship | junior | entry-level ]
-```
+</div>
 
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
+<br>
 
-<h2 align="center">🚀 About Me</h2>
+> [!TIP]
+> **Open to work.** Actively seeking **internship, junior and entry-level frontend opportunities.**
 
-<table>
+<br>
+
+## About
+
+I'm a Computer Science and Engineering student who builds responsive, user-friendly web interfaces with a strong eye for clean UI/UX design. I work with **React, Next.js and Tailwind CSS** on the frontend, and with **TypeScript, Nest.js and PostgreSQL** when a project needs a full stack.
+
+My foundations in **data structures, software architecture and design patterns** help me write code that is easy to read, maintain and scale. I collaborate well in Agile teams, learn quickly, and I'm looking to grow into a software engineer who builds products that last.
+
+<br>
+
+<table width="100%">
 <tr>
-<td valign="top" width="52%">
-
-<p><b>Nusrat</b>, here — a Computer Science and Engineering student focused on frontend development and UI/UX design.</p>
-
-<p>I enjoy building responsive, user-friendly interfaces with <b>React, Next.js and Tailwind CSS</b>, and I care about how real people experience the web.</p>
-
-<p>I also work with <b>TypeScript, Nest.js and PostgreSQL</b>, and I keep sharpening my problem-solving through <b>Data Structures &amp; Algorithms</b>, software architecture and design patterns.</p>
-
-<p>My goal is simple: write clean code, design thoughtful interfaces, and grow into a software engineer who builds products that last.</p>
-
+<td valign="top" align="center" width="25%">
+<sub><b>EDUCATION</b></sub><br><br>
+B.Sc. in Computer Science &amp; Engineering<br>AIUB · 2026 (expected)
 </td>
-<td valign="top" width="48%">
-
-<pre>
-┌──────────────────────┐
-│ ● ● ●                │
-├──────────────────────┤
-│                      │
-│ > role               │
-│   frontend_developer │
-│                      │
-│ > design             │
-│   ui_ux              │
-│                      │
-│ > status             │
-│   open_to_work       │
-│                      │
-│ > seeking            │
-│   internship         │
-│   junior             │
-│   entry_level        │
-│                      │
-└──────────────────────┘
-</pre>
-
+<td valign="top" align="center" width="25%">
+<sub><b>FOCUS</b></sub><br><br>
+Frontend Development<br>UI/UX Design
+</td>
+<td valign="top" align="center" width="25%">
+<sub><b>FOUNDATIONS</b></sub><br><br>
+JavaScript · Data Structures<br>Architecture · Design Patterns
+</td>
+<td valign="top" align="center" width="25%">
+<sub><b>INTERESTS</b></sub><br><br>
+Machine Learning<br>Computer Vision
 </td>
 </tr>
 </table>
 
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
+<br>
 
-<h2 align="center">🧬 Developer Profile</h2>
+---
 
-<p align="center"><sub><code>profile.ts</code></sub></p>
+## Tech Stack
 
-```ts
-const nusrat: Developer = {
-  name: "Nusrat Ayesha",
-  roles: ["Frontend Developer", "UI/UX Designer"],
-  education: "B.Sc. in Computer Science & Engineering · AIUB",
-  status: "open_to_work",
-  seeking: ["Internship", "Junior", "Entry-Level"],
+<table width="100%">
+<tr>
+<td valign="top" align="center" width="33%">
+<b>Frontend</b><br><br>
+<kbd>React.js</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Tailwind CSS</kbd> <kbd>DaisyUI</kbd>
+</td>
+<td valign="top" align="center" width="33%">
+<b>Backend</b><br><br>
+<kbd>Nest.js</kbd> <kbd>.NET</kbd> <kbd>C#</kbd> <kbd>PHP</kbd> <kbd>TypeScript</kbd>
+</td>
+<td valign="top" align="center" width="33%">
+<b>Databases</b><br><br>
+<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>Firebase</kbd>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center" width="33%">
+<b>Design</b><br><br>
+<kbd>Figma</kbd> <kbd>UI/UX Design</kbd> <kbd>Responsive Web Design</kbd>
+</td>
+<td valign="top" align="center" width="33%">
+<b>Languages</b><br><br>
+<kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>C#</kbd> <kbd>C++</kbd> <kbd>PHP</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
+</td>
+<td valign="top" align="center" width="33%">
+<b>Tools</b><br><br>
+<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Figma</kbd> <kbd>Microsoft Word</kbd> <kbd>PowerPoint</kbd> <kbd>Excel</kbd>
+</td>
+</tr>
+</table>
 
-  frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend:  ["Nest.js", ".NET", "PostgreSQL"],
-  design:   ["Figma", "UI/UX Design", "Responsive Design"],
+<br>
 
-  values: ["Clean code", "Thoughtful design", "Continuous learning"],
-};
-```
+---
 
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
+## Skills
 
-<h2 align="center">🛠 Tech Stack</h2>
+<table width="100%">
+<tr>
+<td valign="top" align="center" width="50%">
+<b>Web Development</b><br><br>
+<kbd>Responsive Web Design</kbd> <kbd>UI/UX Design</kbd> <kbd>Component-Based UI</kbd> <kbd>Clean Layouts</kbd>
+</td>
+<td valign="top" align="center" width="50%">
+<b>Software Engineering</b><br><br>
+<kbd>Software Architecture</kbd> <kbd>Design Patterns</kbd> <kbd>Data Structures</kbd> <kbd>Git Version Control</kbd> <kbd>Agile Methodologies</kbd>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center" width="50%">
+<b>Project Management</b><br><br>
+<kbd>Task Planning &amp; Scheduling</kbd> <kbd>SDLC</kbd> <kbd>Scrum</kbd> <kbd>Documentation</kbd> <kbd>Risk Management</kbd>
+</td>
+<td valign="top" align="center" width="50%">
+<b>Soft Skills</b><br><br>
+<kbd>Teamwork</kbd> <kbd>Critical Thinking</kbd> <kbd>Time Management</kbd> <kbd>Creativity</kbd> <kbd>Problem-Solving</kbd> <kbd>Communication</kbd>
+</td>
+</tr>
+</table>
 
-<p align="center"><b>Frontend</b><br>
-<code>React.js</code> <code>Next.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code> <code>DaisyUI</code></p>
+<br>
 
-<p align="center"><b>Backend</b><br>
-<code>Nest.js</code> <code>.NET</code> <code>C#</code> <code>PHP</code> <code>TypeScript</code></p>
+---
 
-<p align="center"><b>Databases</b><br>
-<code>PostgreSQL</code> <code>MySQL</code> <code>Firebase</code></p>
+## Education
 
-<p align="center"><b>Design</b><br>
-<code>Figma</code> <code>UI/UX Design</code> <code>Responsive Web Design</code></p>
+<div align="center">
 
-<p align="center"><b>Languages</b><br>
-<code>JavaScript</code> <code>TypeScript</code> <code>C#</code> <code>C++</code> <code>PHP</code> <code>HTML</code> <code>CSS</code></p>
-
-<p align="center"><b>Tools</b><br>
-<code>Git</code> <code>GitHub</code> <code>Figma</code> <code>Microsoft Word</code> <code>PowerPoint</code> <code>Excel</code></p>
-
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
-
-<h2 align="center">💡 Skills</h2>
-
-<p align="center"><b>Web Development</b><br>
-<code>Responsive Web Design</code> <code>UI/UX Design</code> <code>Component-Based UI</code> <code>Clean Layouts</code></p>
-
-<p align="center"><b>Software Engineering</b><br>
-<code>Software Architecture</code> <code>Design Patterns</code> <code>Data Structures</code> <code>Git Version Control</code> <code>Agile Methodologies</code></p>
-
-<p align="center"><b>Project Management</b><br>
-<code>Task Planning &amp; Scheduling</code> <code>SDLC</code> <code>Scrum</code> <code>Documentation</code> <code>Risk Management</code></p>
-
-<p align="center"><b>Interests</b><br>
-<code>Machine Learning</code> <code>Computer Vision</code> <code>Pattern Recognition</code></p>
-
-<p align="center"><b>Soft Skills</b><br>
-<code>Teamwork</code> <code>Critical Thinking</code> <code>Time Management</code> <code>Creativity</code> <code>Problem-Solving</code> <code>Communication</code></p>
-
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center"><b>B.Sc. in Computer Science &amp; Engineering</b><br>
+**B.Sc. in Computer Science &amp; Engineering**<br>
 American International University-Bangladesh<br>
-Expected graduation 2026</p>
+<sub>Expected graduation 2026</sub>
 
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
+</div>
 
-<h2 align="center">🎯 What I'm Looking For</h2>
+<br>
 
-```diff
-+ Internship opportunities
-+ Junior frontend roles
-+ Entry-level UI engineering positions
-+ Teams that value clean code and good design
-```
+---
 
-<p align="center"><code>░░▒▒▓▓████▓▓▒▒░░ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ░░▒▒▓▓████▓▓▒▒░░</code></p>
+## What I'm Looking For
 
-<h2 align="center">📫 Contact</h2>
+> [!NOTE]
+> **Roles:** Internship &nbsp;·&nbsp; Junior &nbsp;·&nbsp; Entry-Level
+>
+> **Area:** Frontend Development and UI Engineering
+>
+> **Team:** Environments that value clean code, good design and continuous learning
 
-```bash
-$ echo "Let's build something great together." | mail nusrat
-```
+<br>
 
-<p align="center">
-<a href="mailto:ayeshanusratsaima@gmail.com"><b>ayeshanusratsaima@gmail.com</b></a>
-</p>
+---
 
-<p align="center"><sub><code>Clean code · Thoughtful design · Products that work</code></sub></p>
+## Contact
+
+<div align="center">
+
+Interested in working together? I'd love to hear from you.
+
+<br>
+
+<a href="mailto:ayeshanusratsaima@gmail.com"><kbd> ✉ &nbsp;ayeshanusratsaima@gmail.com </kbd></a>
+
+<br>
+<br>
+
+<sub>Clean code &nbsp;·&nbsp; Thoughtful design &nbsp;·&nbsp; Products that work</sub>
+
+</div>
