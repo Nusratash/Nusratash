@@ -3,7 +3,6 @@
 <br>
 
 <h1>NUSRAT AYESHA</h1>
-
 <p>━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <h3>Frontend Developer &nbsp;·&nbsp; UI/UX Designer</h3>
@@ -39,7 +38,7 @@ My foundations in **data structures, software architecture and design patterns**
 <tr>
 <td valign="top" align="center" width="25%">
 <sub><b>EDUCATION</b></sub><br><br>
-B.Sc. in Computer Science &amp; Engineering<br>AIUB · 2026 (expected)
+B.Sc. in Computer Science &amp; Engineering<br>AIUB 
 </td>
 <td valign="top" align="center" width="25%">
 <sub><b>FOCUS</b></sub><br><br>
@@ -126,23 +125,13 @@ Machine Learning<br>Computer Vision
 
 ---
 
-## Education
 
-<div align="center">
-
-**B.Sc. in Computer Science &amp; Engineering**<br>
-American International University-Bangladesh<br>
-<sub>Expected graduation 2026</sub>
-
-</div>
 
 <br>
 
 ---
 
 ## What I'm Looking For
-
-> [!NOTE]
 > **Roles:** Internship &nbsp;·&nbsp; Junior &nbsp;·&nbsp; Entry-Level
 >
 > **Area:** Frontend Development and UI Engineering
@@ -165,7 +154,5 @@ Interested in working together? I'd love to hear from you.
 
 <br>
 <br>
-
-<sub>Clean code &nbsp;·&nbsp; Thoughtful design &nbsp;·&nbsp; Products that work</sub>
 
 </div>
